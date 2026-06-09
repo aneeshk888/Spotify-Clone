@@ -1,2 +1,4 @@
 # Spotify-Clone
-Bootstrap Project
+
+Building a clone of spotify using Bootstrap
+
